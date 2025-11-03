@@ -236,14 +236,12 @@ Internet → DigitalOcean VPS
 **Purpose:** Increase accessibility and engagement through native mobile experience.
 
 **Tech Stack:**
-- React Native (based on your prototyping experience)
+- React Native (based on your prototyping experience) or PWA.
 - Shared Go backend APIs
-- Push notifications for forum updates and events
 
 **Expected Impact:**
 - Higher daily active users (mobile-first student behavior)
 - Push notifications increase engagement by 40-60%
-- Offline access to downloaded study materials
 - Location-based features for campus events
 
 ---
